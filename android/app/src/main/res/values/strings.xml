@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Desafio4</string>
+    <string name="title_activity_main">Desafio4</string>
+    <string name="package_name">desafio.cuatro.ionic</string>
+    <string name="custom_url_scheme">desafio.cuatro.ionic</string>
+</resources>

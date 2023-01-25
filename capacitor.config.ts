@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'desafio.cuatro.ionic',
   appName: 'Desafio4',
   webDir: 'www',
   bundledWebRuntime: false
